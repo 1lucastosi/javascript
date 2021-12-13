@@ -21,4 +21,4 @@ Algoritmo:
 
 ### Exercício 2 - Módulo 12 :
 
-Código Upado nesse diretório 
+Código Upado nesse repositório 
