@@ -21,4 +21,4 @@ Algoritmo:
 
 ### Exercício 2 - Módulo 12 :
 
-Código Upado nesse repositório 
+[Exercício 2 - Média](https://jsfiddle.net/1L0setbq/16/)
